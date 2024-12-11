@@ -73,6 +73,15 @@ h3 {
     margin-left: -23.25%;
 }
 
+.stone-p {
+    position: relative; 
+    top: 90vh; width: 90%; 
+    text-align: left; 
+    left:5%;
+    text-indent: 50px;
+    margin-bottom: 95vh;
+}
+
 .cover {
     align-content: center;
     position: absolute;
